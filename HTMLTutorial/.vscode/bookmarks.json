@@ -1,11 +1,11 @@
 [
 	{
-		"path": "$ROOTPATH$/classAttribute.html",
+		"path": "$ROOTPATH$/pagererefresh.html",
 		"bookmarks": [
 			{
-				"line": 32,
-				"column": 49,
-				"label": "KL is capital of Malaysia"
+				"line": 5,
+				"column": 43,
+				"label": "page refresh itself every 5 seconds as per document"
 			}
 		]
 	}
